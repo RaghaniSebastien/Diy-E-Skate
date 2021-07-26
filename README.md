@@ -19,7 +19,11 @@ I made a live demonstration and let people testing it at the well known "Maker F
 
 link -->  https://youtu.be/vGzxwayOdC4
 
+<br>
+
 Max measured speed with current batteries : 35 km/h ✔
+
+Max measured autonomy with current batteries (moderated-usage) : 8-10 km 🔋
 
 <br>
 <br>
