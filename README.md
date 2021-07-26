@@ -6,6 +6,13 @@ The goal was to learn about e-transportation and also to have fun riding it ! ðŸ
 
 I made a demonstration and let people testing it at the well known "Maker Faire Paris".
 
+Here's a video of it :
+
+
+
+<img src="https://media.giphy.com/media/jejCePq4CFAtcDKUpl/giphy.gif" width="283" height="480" />
+
+
 
 <div align="left">
          <img src="IMG_20170616_185627.jpg" width="450" height="600" />
