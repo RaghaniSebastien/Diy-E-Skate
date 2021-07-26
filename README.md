@@ -1,4 +1,4 @@
-# Diy-E-Skate
+# Diy-E-Skate ⚡🛹⚡
 
 This is a diy electric skateboard i designed and built a few years ago with RC-car-modelism parts.
 
