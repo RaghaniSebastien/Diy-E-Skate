@@ -1,5 +1,23 @@
 # Diy-E-Skate
-Design and build an electric skateboard with car-modelism parts
+
+This is a diy electric skateboard i designed and built a few years ago with RC-car-modelism parts.
+
+The goal was to learn about e-transportation and also to have fun riding it ! 😉
+
+I made a demonstration and let people testing it at the well known "Maker Faire Paris".
+
+
+<div align="left">
+         <img src="IMG_20170616_185627.jpg" width="450" height="600" />
+</div>
+
+
+Max speed with current batteries : 35 km/h
+
+
+<br>
+<br>
+<br>
 
 
 
@@ -11,4 +29,6 @@ Design and build an electric skateboard with car-modelism parts
          <img src="https://img.youtube.com/vi/60HYHI3BR-A/0.jpg" style="width:100%;">
       </a>
 </div>
-https://youtu.be/60HYHI3BR-A
+link --> https://youtu.be/60HYHI3BR-A
+
+
