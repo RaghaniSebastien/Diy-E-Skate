@@ -4,38 +4,36 @@ This is a diy electric skateboard i designed and built a few years ago with RC-c
 
 The goal was to learn about e-transportation and also to have fun riding it ! 😉
 
-I made a demonstration and let people testing it at the well known "Maker Faire Paris".
+<br>
 
-Here's a video of it :
+I made a live demonstration and let people testing it at the well known "Maker Faire Paris" in 2020.
 
-
-
-<img src="https://media.giphy.com/media/jejCePq4CFAtcDKUpl/giphy.gif" width="283" height="480" />
-
-
-
+--> Here's a video of it :
 <div align="left">
-         <img src="IMG_20170616_185627.jpg" width="450" height="600" />
+         <a href="https://youtu.be/vGzxwayOdC4">
+                  <img src="youtube-video-gif%20(1).gif" width="283" height="480";/>
+                  <img src="IMG_20170616_185627.jpg" width="372" height="496";/>
+         </a>
 </div>
+<!-- commentaire : add   style="display:inline-block" -->
 
+link -->  https://youtu.be/vGzxwayOdC4
 
-Max speed with current batteries : 35 km/h
-
+Max measured speed with current batteries : 35 km/h ✔
 
 <br>
 <br>
-<br>
 
-
-
-
-
-* Click on the image to see the build *
+* Click to see the quick building video on youtube
 <div align="left">
       <a href="https://www.youtube.com/watch?v=60HYHI3BR-A">
-         <img src="https://img.youtube.com/vi/60HYHI3BR-A/0.jpg" style="width:100%;">
+               <img src="https://img.youtube.com/vi/60HYHI3BR-A/0.jpg" style="width:100%";/>
       </a>
-</div>
+</div>                                                                                 
+
 link --> https://youtu.be/60HYHI3BR-A
+
+
+
 
 
